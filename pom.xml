@@ -19,7 +19,7 @@
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
-		<sonar.host.url>http://54.173.49.19:9000</sonar.host.url>
+		<sonar.host.url>http://44.211.212.15:9000</sonar.host.url>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>admin</sonar.password>
 		<log4j.version>1.2.17</log4j.version>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>473tech Releases Nexus Repository</name>
-	      <url>http://54.173.102.181:8081/repository/demo-releases/</url> 
+	      <url>http://54.158.70.65:8081/repository/demo-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>473tech Snapshot Nexus Repository </name>
-	      <url>http://54.173.102.181:8081/repository/demo-snapshots/</url>
+	      <url>http://54.158.70.65:8081/repository/demo-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
