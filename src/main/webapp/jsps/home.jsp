@@ -16,6 +16,10 @@
 	<h2 align="center" >Taken from "The Greatest salesman in the world by OG Mandino</h2>
 	<h2 align="center" >Visit https://473tech.com. Production</h2>
 	<h2 align="center" >We are billionaires</h2>
+	<h2 align="center" >Ruth came to class today</h2>
+	<h2 align="center" >Olamide came to class today</h2>
+	<h2 align="center" >Tope came to class today</h2>
+
 
 
 <hr>
